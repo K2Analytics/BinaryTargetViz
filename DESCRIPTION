@@ -1,0 +1,10 @@
+Package: BinaryTargetViz 
+Title: Shiny application with Visualization function
+Version: 0.0.1.010
+Authors@R: person("Jishnu", "S", email = "jishnu.s@k2analytics.co.in", role = c("aut", "cre"))
+Description: Produce the visualization graph.
+Depends: R (>= 3.3.0),data.table,scales,shiny,plotly,shinythemes
+Imports: qpcR,shiny,plotly,data.table,scales,shinythemes
+License: MIT
+LazyData: true
+RoxygenNote: 6.0.1
